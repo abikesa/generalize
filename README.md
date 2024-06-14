@@ -6,7 +6,7 @@
 
 ### Dionysus
 - Voir/Apple: Modes
-- Savoir/Microsoft-OpenAI: 
+- Savoir/Microsoft-OpenAI: Neuralnetworks
   
 ### Sing O Muse!
 - Pouvoir/Nvidia: Basic
