@@ -5,7 +5,7 @@
                                   3. Hardware
 
 ### Dionysus
-- Voir/Apple: Modes
+- Voir/[Apple](https://abikesa.github.io/apple/): Modes
 - Savoir/Microsoft-OpenAI: Neuralnetworks
   
 ### Sing O Muse!
